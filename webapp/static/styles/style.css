@@ -3,3 +3,7 @@ p {
     text-indent: 30px;
     text-transform: uppercase;
   }
+
+  h6 {
+    color: navy;
+  }
